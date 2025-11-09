@@ -1,0 +1,9 @@
+{
+  "name": "Angular v20 + SSR PreCompile",
+  "shortname": "angular-20",
+  "author": "Snider",
+  "description": "Angular v20, with optional pre-compiled SSR support",
+  "helpurl": "https://github.com/Snider/wails-angular-template",
+  "version": "v0.0.1",
+  "schema": 3
+}
