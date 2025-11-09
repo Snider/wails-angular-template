@@ -11,6 +11,13 @@ Includes the all Angular CLI llm guidelines, Web Awesome, Fontawesome.
 
 1. Navigate to your project directory in the terminal.
 
+make a new project using Wails3:
+
+   ```
+   wails3 init -n MyWailsApp -t https://github.com/Snider/wails-angular-template@v0.0.1
+   cd MyWailsApp
+   ```
+
 2. To run your application in development mode, use the following command:
 
    ```
